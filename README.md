@@ -1,7 +1,6 @@
-# equals-simple
+# Equals simple
 Simple object equals
 
-# Equals simple
 
 ## Постановка задачи
 
